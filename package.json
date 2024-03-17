@@ -69,11 +69,13 @@
 		"webpack": "latest",
 		"webpack-cli": "latest",
 		"webpack-dev-server": "latest",
+		"personal-build-frontender": "^0.0.9",
 		"webpack-stream": "latest"
 	},
 	"dependencies": {
 		"gulp-cheerio": "^1.0.0",
 		"isotope-layout": "^3.0.6",
+		"personal-build-frontender": "^0.0.9",
 		"simplebar": "latest"
 	}
 }
