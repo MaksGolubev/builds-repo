@@ -69,12 +69,14 @@
 		"webpack": "latest",
 		"webpack-cli": "latest",
 		"webpack-dev-server": "latest",
+		"webpack-stream": "latest",
 		"personal-build-frontender": "^0.0.9",
-		"webpack-stream": "latest"
+		"my-module-dark-theme": "^0.0.4"
 	},
 	"dependencies": {
 		"gulp-cheerio": "^1.0.0",
 		"isotope-layout": "^3.0.6",
+		"my-module-dark-theme": "^0.0.4",
 		"personal-build-frontender": "^0.0.9",
 		"simplebar": "latest"
 	}
